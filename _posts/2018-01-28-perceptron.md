@@ -12,7 +12,7 @@ mathjax: "true"
 
 I have used the data from NBA players to create a shot chart graph. I have utilized R for this project to produce the images.
 
-An example of the shot chart I created is this: <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
+An example of the shot chart I created is this: <img src="{{ site.url }}{{ site.baseurl }}/images/klay-thompson-shot-chart.pdf" alt="klay data">
 
 For more images you can also click [here](https://github.com/beverlylt/workout01/tree/master/images).
 
