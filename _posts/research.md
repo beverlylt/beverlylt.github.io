@@ -16,6 +16,8 @@ Through this project, we used one-way tables, two-way tables, and population pro
 
 - We have found a lot of students have chosen their majors due to it being their own passion (regardless of their majors), and language and cultural barriers seem to be of concern specifically for students who major in business or STEM-related majors.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/major_reason.jpg" alt="major reason">
+
 - We also found it interesting how a majority of students are choosing majors that are not independent on their parents' or legal guardians' major. We hypothesize this relates to how many students are choosing majors out of their own passion, so the influence of a parent or legal guardian is not significant in choosing thier major.
 
 We also acknowledge that this project comes with flaws: our outreach was limited to only De Anza College students, and not many would be willing to fill our surveys. Hence, some bias may be presented in our findings. However, it was a good learning experience, and we were surprised that some of our assumptions before doing this project were challenged or even changed. We also became better versed in using statistical analysis and also in teamwork.
