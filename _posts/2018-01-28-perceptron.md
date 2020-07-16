@@ -4,7 +4,7 @@ date: 2019-03-29
 tags: [data visualization, data science, R]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Visualization, Data Sciene, R"
+excerpt: "Data Visualization, Data Science, R"
 mathjax: "true"
 ---
 
