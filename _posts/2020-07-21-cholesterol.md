@@ -3,7 +3,7 @@ title: "Framingham Study"
 date: 2020-07-21
 tags: [AB testing, data science, Python, hypothesis testing]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/Cholesterol/heart.jpg"
 excerpt: "A/B testing, Data Science, Python, Hypothesis test"
 mathjax: "true"
 ---
@@ -154,7 +154,7 @@ plots.scatter(framingham_observed_statistic, 0, color='red', s=30)
 
 
 
-![png](/images/Cholesterol_13_1.png)
+![png](/images/Cholesterol/Cholesterol_13_1.png)
 
 
 
