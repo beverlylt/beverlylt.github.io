@@ -1,6 +1,6 @@
 ---
 title: "Framingham Study"
-date: 2019-03-29
+date: 2020-07-21
 tags: [AB testing, data science, Python, hypothesis testing]
 header:
   image: "/images/perceptron/percept.jpg"
@@ -174,7 +174,3 @@ Since our p-value is 0.0 or less than 0.05, it strongly suggests against the nul
 
 However, we have to keep in mind here that though there may be a correlation, we cannot assume that also implies causation. There may be other factors that can contribute to heart disease that we did not consider in this test (since we only used cholestrol). For example, hereditary genes could also cause heart diseases.
 
-
-```python
-
-```
