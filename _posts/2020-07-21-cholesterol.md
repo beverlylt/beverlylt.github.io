@@ -154,7 +154,7 @@ plots.scatter(framingham_observed_statistic, 0, color='red', s=30)
 
 
 
-![png](images/Cholesterol_13_1.png)
+![png](/images/Cholesterol_13_1.png)
 
 
 
